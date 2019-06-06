@@ -4,9 +4,10 @@
     width: 95vw;
     border: 5px solid black;
     margin: 5px;
+    padding: 10px;
 }
 .purpleBox{
-    height: 100px;
+    height: 60%;
     width: 50px;
     background: mediumslateblue;
     margin: 10px;
