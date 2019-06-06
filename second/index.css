@@ -1,5 +1,25 @@
 .headerBox{
     height: 20vh;
     width: 100vw;
-    border: 2px solid black;
+    border: 3px solid black;
+
+}
+.purpleBox{
+    height: 100px;
+    width: 50px;
+    background: mediumslateblue;
+    margin: 80px 10px 10px 10px;
+}
+.greenBox{
+    height: 200px;
+    width: 20vw;
+    background: green;
+    margin: 0 auto;
+    display: inline-block;
+}
+.blueCircle{
+    height: 200px;
+    width: 10vw;
+    background: lightblue;
+    border-radius: 50%;
 }
