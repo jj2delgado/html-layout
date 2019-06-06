@@ -1,25 +1,51 @@
-.headerBox{
-    height: 20vh;
-    width: 100vw;
-    border: 3px solid black;
 
+.headerBox{
+    height: 25vh;
+    width: 95vw;
+    border: 5px solid black;
+    margin: 10px;
 }
 .purpleBox{
     height: 100px;
     width: 50px;
     background: mediumslateblue;
-    margin: 80px 10px 10px 10px;
+    margin: 10px;
+    display: inline-block;
 }
 .greenBox{
-    height: 200px;
+    height: 18vh;
     width: 20vw;
     background: green;
     margin: 0 auto;
     display: inline-block;
+    margin: 10px;
 }
 .blueCircle{
-    height: 200px;
+    height: 18vh;
     width: 10vw;
     background: lightblue;
     border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+}
+.bodyBox{
+    height: 35vh;
+    width: 95vw;
+    border: 5px dotted gray;
+    margin: 10px
+}
+.innerBox{
+    height: 75%;
+    width: 90%;
+    border: 5px outset darkgray;
+    background: beige;
+    margin: auto;
+    margin-top: 25px;
+}
+.bottomBox{
+    height: 35vh;
+    width: 45%;
+    background: whitesmoke;
+    border: 2px outset lightgray;
+    margin: auto;
 }
