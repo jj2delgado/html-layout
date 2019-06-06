@@ -3,7 +3,7 @@
     height: 25vh;
     width: 95vw;
     border: 5px solid black;
-    margin: 10px;
+    margin: 5px;
 }
 .purpleBox{
     height: 100px;
@@ -37,8 +37,8 @@
 .innerBox{
     height: 75%;
     width: 90%;
-    border: 5px outset darkgray;
-    background: beige;
+    box-shadow: 10px 10px 10px #404040;
+    background: lemonchiffon;
     margin: auto;
     margin-top: 25px;
 }
@@ -46,6 +46,13 @@
     height: 35vh;
     width: 45%;
     background: whitesmoke;
-    border: 2px outset lightgray;
+    box-shadow: 5px 5px 5px slategray;
     margin: auto;
+}
+h1{
+    color: blue;
+    font-size: 3.0em;
+    text-align: center;
+    padding: 140px 0;
+    font-family: 'Slabo 27px', serif;
 }
