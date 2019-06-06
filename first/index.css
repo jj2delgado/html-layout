@@ -1,0 +1,12 @@
+.firstBox{
+    height: 200px;
+    width: 70%;
+    background: rgb(43, 41, 41);
+    border: 10px solid rgb(43, 41, 41);
+}
+
+.contentBox{
+    height: 100%;
+    width: 100%;
+    background: darkgray;
+}
