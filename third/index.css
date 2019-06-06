@@ -1,0 +1,48 @@
+.firstContainer{
+    height: 10vh;
+    width: 100vw;
+    background: lightgrey;
+    margin: 0;
+    padding: 10px;
+}
+.blueBox{
+    height: 50px;
+    width: 50px;
+    background: steelblue;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.secondContainer{
+    height: 20vh;
+    width:100vw;
+    background: white;
+}
+h1{
+    text-align: left;
+    font-size: 1.0em;
+    padding: 70px 40px;
+}
+.thirdBlue{
+    height:10vh;
+    width: 100vw;
+    background: steelblue;
+    padding: 10px;
+}
+.fourthCyan{
+    height:10vh;
+    width: 100vw;
+    background:cyan;
+    padding: 10px;
+}
+.fifthGreen{
+    height:10vh;
+    width:100vw;
+    background: greenyellow;
+    padding: 10px;
+}
+.sixthYellow{
+    height:10vh;
+    width:100vw;
+    background:yellow;
+    padding: 10px;
+}
