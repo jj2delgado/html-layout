@@ -55,6 +55,7 @@ h1{
     color: blue;
     font-size: 3.0em;
     text-align: center;
+    letter-spacing: 5px;
     padding: 140px 0;
     font-family: 'Slabo 27px', serif;
 }
